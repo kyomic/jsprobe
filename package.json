@@ -38,5 +38,9 @@
     "tsconfig-paths": "^4.2.0",
     "vite": "^4.1.0",
     "vite-plugin-compression": "^0.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kyomic/jsprobe.git"
   }
 }
